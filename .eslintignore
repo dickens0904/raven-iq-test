@@ -1,0 +1,7 @@
+node_modules
+release
+.playwright-browsers
+dist
+build
+coverage
+*.min.js
